@@ -20,6 +20,9 @@ End-to-end SQL analytics project analyzing 1,200+ cab trip records across 8 Indi
 | cancellations | ~240 | Cancelled and no-show trip records |
 | surge_pricing | 448 | Time-slot-based surge multiplier logs |
 
+## ER DIAGRAM
+![ER DIAGRAM](docs/er_diagram.png)
+
 **Time Period:** January 2024 – December 2024
 
 ## Key Business Insights
