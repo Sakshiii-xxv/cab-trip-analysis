@@ -24,7 +24,7 @@ CREATE TABLE drivers (
     is_active    BOOLEAN DEFAULT TRUE
 );
 
--- TABLE 3: Trips (main fact table — sabse important)
+-- TABLE 3: Trips
 CREATE TABLE trips (
     trip_id          SERIAL PRIMARY KEY,
     driver_id        INT REFERENCES drivers(driver_id),
