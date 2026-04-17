@@ -26,10 +26,12 @@ End-to-end SQL analytics project analyzing 1,200+ cab trip records across 8 Indi
 **Time Period:** January 2024 – December 2024
 
 ## Key Business Insights
-- Identified 34% cancellation concentration in outer zones
-- Surge pricing contributed 22% of total revenue despite only 9% of trips
-- Top 10% of drivers generated 38% of total revenue
-- Detected 3 high-demand zones with a 40%+ supply gap
+- Top 10% drivers generated **38% of total revenue** (NTILE analysis)
+- Surge pricing contributed **22% revenue from only 9% of trips**
+- **3 high-demand zones** identified with 40%+ supply-demand gap
+- Platform lost **~₹85,000 potential revenue** to cancellations
+- Metro cities yield **47% higher avg fare** vs Tier-2 cities
+- Peak revenue hours: **8 AM and 6–8 PM** (evening rush dominates)
 
 ## How to Run This Project
 1. Clone this repository
