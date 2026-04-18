@@ -61,25 +61,5 @@ on revenue.
 5. Import CSVs via DBeaver Import Wizard (cities → drivers → trips → surge → cancellations)
 6. Run queries in order: `02` → `03` → `04`
 
-## Project Structure
-\`\`\`
-cab-trip-analysis/
-├── data/
-│   ├── raw/                     ← 5 generated CSV files
-│   └── processed/               ← exported query results
-├── sql/
-│   ├── 01_schema.sql            ← table creation + indexes
-│   ├── 02_basic_analysis.sql    ← GROUP BY, HAVING queries
-│   ├── 03_advanced_analysis.sql ← window functions, CTEs
-│   └── 04_insights.sql          ← business insight queries
-├── docs/
-│   ├── er_diagram.png
-│   ├── dashboard_preview.png
-│   └── insights_summary.md
-├── dashboard/
-│   └── cab_trip_dashboard.xlsx / .pbix
-└── README.md
-\`\`\`
-
 ## Author
 **Sakshi**
