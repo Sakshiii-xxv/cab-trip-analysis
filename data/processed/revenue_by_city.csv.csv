@@ -1,0 +1,9 @@
+city_name,zone,total_trips,completed_trips,total_revenue,avg_fare,cancellation_rate
+Delhi,Metro,256,200,86229.27,426.75,21.88
+Pune,Tier-2,220,168,69595.98,419.49,23.64
+Mumbai,Metro,158,123,57817.59,467.65,22.15
+Bengaluru,Metro,145,115,49905.73,443.35,20.69
+Surat,Tier-2,164,122,47622.5,433.25,25.61
+Jaipur,Tier-2,99,74,29567.18,422.6,25.25
+Hyderabad,Metro,81,60,23106.14,423.79,25.93
+Lucknow,Tier-2,77,56,21931.45,416.19,27.27

@@ -1,0 +1,17 @@
+"city_name","cancelled_by","cancel_count","avg_wait_min"
+Delhi,Passenger,38,10.4
+Pune,Passenger,33,8.2
+Surat,Passenger,26,10.1
+Mumbai,Passenger,20,7.3
+Pune,Driver,19,9.6
+Delhi,Driver,18,9.6
+Bengaluru,Driver,17,9.2
+Surat,Driver,16,10.6
+Mumbai,Driver,15,9.9
+Jaipur,Passenger,14,8.8
+Bengaluru,Passenger,13,11.2
+Lucknow,Passenger,12,9.7
+Hyderabad,Passenger,11,8.5
+Jaipur,Driver,11,9.5
+Hyderabad,Driver,10,11.2
+Lucknow,Driver,9,7.9

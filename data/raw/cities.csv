@@ -1,0 +1,9 @@
+city_id,city_name,zone,state,is_metro
+1,Mumbai,Metro,Maharashtra,True
+2,Delhi,Metro,Delhi,True
+3,Bengaluru,Metro,Karnataka,True
+4,Hyderabad,Metro,Telangana,True
+5,Pune,Tier-2,Maharashtra,False
+6,Jaipur,Tier-2,Rajasthan,False
+7,Lucknow,Tier-2,UP,False
+8,Surat,Tier-2,Gujarat,False

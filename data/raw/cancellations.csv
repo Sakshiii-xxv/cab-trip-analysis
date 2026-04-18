@@ -1,0 +1,283 @@
+cancel_id,trip_id,cancelled_by,reason,cancel_time,wait_minutes
+1,7,Driver,Passenger unreachable,2024-05-22 11:48:00,16
+2,11,Passenger,Price too high,2024-05-31 16:15:00,3
+3,16,Driver,Passenger unreachable,2024-05-07 21:25:00,18
+4,27,Driver,Wrong location entered,2024-06-26 15:58:00,16
+5,41,Driver,Personal emergency,2024-03-13 06:17:00,7
+6,49,Driver,Personal emergency,2024-05-19 12:31:00,1
+7,52,Passenger,Changed plans,2024-07-29 05:02:00,15
+8,54,Passenger,Driver rated poorly,2024-08-28 18:18:00,2
+9,58,Passenger,Found alternative,2024-05-27 17:20:00,10
+10,60,Driver,Vehicle breakdown,2024-12-17 18:12:00,9
+11,63,Driver,Personal emergency,2024-05-19 19:23:00,7
+12,65,Passenger,Changed plans,2024-08-20 11:48:00,1
+13,68,Passenger,Price too high,2024-10-27 18:23:00,14
+14,77,Passenger,Changed plans,2024-07-23 12:14:00,8
+15,80,Driver,Vehicle breakdown,2024-07-07 07:27:00,10
+16,88,Passenger,Long wait time,2024-08-11 16:48:00,15
+17,93,Driver,Vehicle breakdown,2024-04-06 10:36:00,6
+18,98,Passenger,Driver rated poorly,2024-07-04 10:31:00,18
+19,100,Passenger,Long wait time,2024-12-20 19:03:00,12
+20,102,Driver,Vehicle breakdown,2024-03-23 20:04:00,13
+21,103,Driver,Personal emergency,2024-03-23 10:07:00,10
+22,105,Passenger,Price too high,2024-12-22 20:06:00,18
+23,109,Passenger,Found alternative,2024-01-09 11:07:00,3
+24,118,Passenger,Price too high,2024-07-17 21:18:00,11
+25,119,Passenger,Found alternative,2024-03-10 19:43:00,15
+26,120,Driver,Wrong location entered,2024-10-04 09:21:00,2
+27,124,Passenger,Found alternative,2024-03-25 09:10:00,11
+28,128,Passenger,Found alternative,2024-04-14 11:14:00,5
+29,129,Driver,Personal emergency,2024-02-24 10:42:00,13
+30,133,Passenger,Long wait time,2024-10-08 09:43:00,4
+31,156,Passenger,Long wait time,2024-11-24 22:43:00,2
+32,158,Driver,Wrong location entered,2024-12-10 18:28:00,1
+33,160,Passenger,Driver rated poorly,2024-10-03 09:03:00,8
+34,169,Driver,Vehicle breakdown,2024-07-13 16:31:00,16
+35,170,Passenger,Long wait time,2024-06-29 09:04:00,18
+36,174,Driver,Vehicle breakdown,2024-10-16 09:57:00,13
+37,175,Passenger,Changed plans,2024-07-12 16:17:00,14
+38,178,Passenger,Price too high,2024-10-17 19:32:00,8
+39,187,Passenger,Found alternative,2024-06-15 12:57:00,5
+40,188,Passenger,Long wait time,2024-08-24 21:14:00,1
+41,191,Passenger,Changed plans,2024-11-27 16:40:00,4
+42,194,Driver,Personal emergency,2024-08-31 07:56:00,10
+43,208,Passenger,Long wait time,2024-02-08 18:06:00,10
+44,214,Passenger,Found alternative,2024-02-06 08:09:00,4
+45,219,Driver,Vehicle breakdown,2024-03-08 12:54:00,1
+46,222,Driver,Passenger unreachable,2024-11-20 18:45:00,4
+47,226,Driver,Passenger unreachable,2024-02-22 20:46:00,3
+48,227,Passenger,Price too high,2024-07-15 21:25:00,14
+49,230,Passenger,Driver rated poorly,2024-10-15 18:48:00,1
+50,231,Driver,Wrong location entered,2024-01-04 21:12:00,11
+51,236,Passenger,Long wait time,2024-03-02 08:01:00,10
+52,237,Passenger,Long wait time,2024-05-07 22:41:00,16
+53,244,Passenger,Changed plans,2024-09-28 11:39:00,2
+54,254,Driver,Passenger unreachable,2024-06-28 15:22:00,16
+55,264,Passenger,Price too high,2024-07-17 16:44:00,9
+56,273,Passenger,Price too high,2024-04-19 19:59:00,18
+57,283,Passenger,Price too high,2024-02-11 14:52:00,12
+58,293,Driver,Personal emergency,2024-09-18 06:47:00,1
+59,297,Passenger,Long wait time,2024-09-04 19:46:00,3
+60,303,Driver,Passenger unreachable,2024-10-14 08:45:00,3
+61,308,Driver,Vehicle breakdown,2024-03-31 17:26:00,15
+62,321,Passenger,Price too high,2024-02-28 12:42:00,8
+63,322,Driver,Personal emergency,2024-01-23 09:43:00,2
+64,328,Passenger,Changed plans,2024-10-10 20:16:00,7
+65,332,Passenger,Long wait time,2024-01-03 10:51:00,1
+66,335,Passenger,Price too high,2024-10-05 20:35:00,1
+67,343,Passenger,Price too high,2024-03-23 07:35:00,3
+68,346,Passenger,Price too high,2024-09-24 19:41:00,9
+69,347,Passenger,Changed plans,2024-03-01 08:00:00,18
+70,351,Passenger,Long wait time,2024-08-04 16:48:00,9
+71,355,Driver,Personal emergency,2024-09-23 09:54:00,16
+72,357,Passenger,Changed plans,2024-10-27 08:10:00,10
+73,362,Passenger,Price too high,2024-08-31 10:23:00,10
+74,363,Passenger,Changed plans,2024-05-03 20:17:00,4
+75,364,Passenger,Found alternative,2024-01-04 18:41:00,7
+76,365,Driver,Wrong location entered,2024-09-18 09:15:00,1
+77,367,Driver,Wrong location entered,2024-07-04 16:29:00,13
+78,370,Driver,Personal emergency,2024-11-18 15:54:00,8
+79,379,Passenger,Changed plans,2024-11-21 20:35:00,8
+80,386,Driver,Wrong location entered,2024-03-15 05:53:00,4
+81,390,Passenger,Driver rated poorly,2024-08-31 17:10:00,1
+82,399,Driver,Vehicle breakdown,2024-12-02 09:54:00,14
+83,401,Driver,Personal emergency,2024-06-10 16:38:00,18
+84,402,Driver,Personal emergency,2024-10-06 08:51:00,2
+85,403,Driver,Vehicle breakdown,2024-01-09 15:59:00,3
+86,406,Passenger,Long wait time,2024-06-02 04:03:00,12
+87,413,Passenger,Found alternative,2024-11-13 22:03:00,8
+88,418,Driver,Passenger unreachable,2024-09-07 12:14:00,4
+89,420,Passenger,Price too high,2024-07-14 15:49:00,6
+90,421,Driver,Vehicle breakdown,2024-03-08 08:26:00,18
+91,425,Driver,Wrong location entered,2024-12-30 17:27:00,16
+92,428,Driver,Passenger unreachable,2024-11-24 21:04:00,14
+93,429,Driver,Vehicle breakdown,2024-01-21 16:41:00,8
+94,431,Passenger,Price too high,2024-10-26 21:49:00,5
+95,435,Driver,Passenger unreachable,2024-05-09 01:32:00,1
+96,437,Passenger,Driver rated poorly,2024-11-30 11:13:00,4
+97,438,Driver,Wrong location entered,2024-03-23 17:56:00,17
+98,440,Passenger,Price too high,2024-07-30 15:55:00,11
+99,448,Driver,Personal emergency,2024-11-16 15:17:00,7
+100,456,Passenger,Changed plans,2024-11-01 20:56:00,16
+101,458,Driver,Passenger unreachable,2024-11-11 09:29:00,6
+102,471,Passenger,Long wait time,2024-09-26 23:53:00,5
+103,483,Passenger,Changed plans,2024-12-02 20:18:00,5
+104,484,Passenger,Changed plans,2024-02-26 17:32:00,16
+105,489,Driver,Personal emergency,2024-01-02 12:50:00,6
+106,493,Passenger,Driver rated poorly,2024-06-22 06:02:00,12
+107,502,Driver,Personal emergency,2024-02-27 18:57:00,14
+108,507,Passenger,Price too high,2024-08-02 08:23:00,2
+109,509,Driver,Vehicle breakdown,2024-10-23 09:00:00,1
+110,517,Passenger,Found alternative,2024-03-03 14:47:00,13
+111,521,Passenger,Long wait time,2024-03-08 20:24:00,5
+112,522,Passenger,Found alternative,2024-08-21 22:53:00,14
+113,524,Passenger,Driver rated poorly,2024-08-17 15:18:00,8
+114,525,Passenger,Price too high,2024-10-06 22:37:00,16
+115,532,Passenger,Long wait time,2024-05-19 12:36:00,1
+116,537,Passenger,Found alternative,2024-05-29 16:02:00,3
+117,558,Driver,Personal emergency,2024-01-29 12:33:00,2
+118,559,Passenger,Driver rated poorly,2024-10-29 05:02:00,9
+119,561,Passenger,Long wait time,2024-06-21 08:44:00,10
+120,566,Passenger,Price too high,2024-07-24 09:43:00,11
+121,568,Passenger,Long wait time,2024-08-24 07:26:00,17
+122,569,Passenger,Long wait time,2024-05-26 17:34:00,18
+123,572,Passenger,Changed plans,2024-02-27 16:37:00,5
+124,575,Passenger,Long wait time,2024-12-15 09:33:00,16
+125,576,Passenger,Changed plans,2024-12-05 19:20:00,17
+126,578,Passenger,Driver rated poorly,2024-11-19 11:00:00,9
+127,581,Passenger,Found alternative,2024-11-28 19:04:00,10
+128,586,Passenger,Driver rated poorly,2024-12-12 08:22:00,11
+129,592,Passenger,Driver rated poorly,2024-04-06 07:22:00,8
+130,594,Driver,Vehicle breakdown,2024-10-15 20:47:00,10
+131,596,Passenger,Driver rated poorly,2024-11-17 22:55:00,17
+132,609,Passenger,Found alternative,2024-10-18 19:34:00,9
+133,611,Passenger,Driver rated poorly,2024-01-10 12:25:00,5
+134,613,Passenger,Driver rated poorly,2024-06-22 22:01:00,7
+135,614,Passenger,Found alternative,2024-04-16 10:05:00,18
+136,615,Passenger,Found alternative,2024-10-12 04:16:00,15
+137,626,Passenger,Driver rated poorly,2024-10-09 10:25:00,4
+138,628,Driver,Vehicle breakdown,2024-01-03 13:23:00,8
+139,631,Passenger,Price too high,2024-09-22 19:01:00,6
+140,634,Driver,Personal emergency,2024-06-05 23:31:00,12
+141,636,Passenger,Price too high,2024-11-06 07:17:00,9
+142,639,Driver,Vehicle breakdown,2024-09-24 08:48:00,18
+143,643,Driver,Personal emergency,2024-01-27 08:51:00,3
+144,645,Passenger,Changed plans,2024-10-11 17:26:00,18
+145,646,Driver,Vehicle breakdown,2024-10-02 23:01:00,3
+146,647,Passenger,Long wait time,2024-01-31 21:46:00,16
+147,660,Passenger,Price too high,2024-01-13 16:49:00,9
+148,668,Driver,Personal emergency,2024-10-16 22:46:00,7
+149,669,Passenger,Price too high,2024-11-23 08:30:00,16
+150,677,Driver,Passenger unreachable,2024-04-22 20:42:00,14
+151,681,Driver,Vehicle breakdown,2024-06-03 18:54:00,5
+152,687,Driver,Passenger unreachable,2024-09-30 12:32:00,2
+153,691,Driver,Vehicle breakdown,2024-06-07 16:41:00,9
+154,694,Passenger,Price too high,2024-07-20 17:07:00,5
+155,704,Driver,Passenger unreachable,2024-06-03 18:38:00,7
+156,709,Driver,Vehicle breakdown,2024-11-27 19:49:00,1
+157,710,Passenger,Found alternative,2024-09-23 10:38:00,10
+158,712,Passenger,Long wait time,2024-11-06 09:26:00,8
+159,713,Passenger,Driver rated poorly,2024-08-29 13:41:00,9
+160,726,Driver,Vehicle breakdown,2024-08-07 11:51:00,8
+161,727,Driver,Personal emergency,2024-07-01 20:59:00,8
+162,728,Passenger,Changed plans,2024-09-28 09:51:00,7
+163,729,Driver,Vehicle breakdown,2024-11-22 22:58:00,6
+164,730,Driver,Wrong location entered,2024-09-05 12:55:00,16
+165,735,Driver,Personal emergency,2024-05-12 07:19:00,14
+166,736,Passenger,Found alternative,2024-07-13 16:06:00,6
+167,738,Driver,Wrong location entered,2024-12-06 20:01:00,9
+168,739,Passenger,Long wait time,2024-05-29 17:34:00,10
+169,758,Passenger,Found alternative,2024-09-27 11:49:00,13
+170,764,Passenger,Price too high,2024-04-07 20:51:00,4
+171,766,Passenger,Price too high,2024-09-10 12:38:00,15
+172,768,Driver,Vehicle breakdown,2024-07-01 00:42:00,13
+173,772,Passenger,Price too high,2024-05-16 07:38:00,7
+174,773,Passenger,Long wait time,2024-02-26 23:04:00,14
+175,779,Driver,Personal emergency,2024-04-04 09:42:00,11
+176,788,Passenger,Price too high,2024-11-28 11:55:00,17
+177,798,Driver,Passenger unreachable,2024-12-16 13:03:00,7
+178,800,Driver,Personal emergency,2024-12-07 17:52:00,13
+179,807,Driver,Vehicle breakdown,2024-03-16 11:12:00,7
+180,811,Driver,Vehicle breakdown,2024-08-27 14:54:00,13
+181,817,Driver,Personal emergency,2024-11-07 18:07:00,8
+182,820,Passenger,Long wait time,2024-05-11 18:29:00,1
+183,822,Passenger,Changed plans,2024-11-25 05:58:00,8
+184,823,Passenger,Changed plans,2024-07-23 19:29:00,15
+185,831,Passenger,Driver rated poorly,2024-01-19 08:25:00,13
+186,834,Driver,Personal emergency,2024-07-14 09:55:00,13
+187,837,Passenger,Changed plans,2024-04-24 15:32:00,15
+188,839,Driver,Wrong location entered,2024-05-03 16:39:00,14
+189,843,Driver,Vehicle breakdown,2024-05-02 17:23:00,9
+190,846,Driver,Wrong location entered,2024-08-18 19:27:00,16
+191,850,Passenger,Found alternative,2024-10-25 18:54:00,17
+192,854,Passenger,Driver rated poorly,2024-02-03 12:40:00,2
+193,856,Passenger,Changed plans,2024-06-16 16:17:00,2
+194,860,Driver,Passenger unreachable,2024-07-07 19:40:00,6
+195,861,Driver,Vehicle breakdown,2024-05-15 10:48:00,9
+196,865,Driver,Wrong location entered,2024-02-23 12:07:00,15
+197,878,Driver,Wrong location entered,2024-10-22 18:41:00,14
+198,880,Passenger,Found alternative,2024-03-03 13:37:00,8
+199,882,Driver,Passenger unreachable,2024-01-03 13:59:00,17
+200,888,Passenger,Found alternative,2024-10-16 20:05:00,2
+201,901,Passenger,Price too high,2024-08-03 21:13:00,10
+202,906,Driver,Wrong location entered,2024-03-06 18:25:00,6
+203,908,Driver,Passenger unreachable,2024-11-12 05:47:00,3
+204,909,Passenger,Found alternative,2024-05-13 09:05:00,9
+205,911,Driver,Personal emergency,2024-01-22 07:49:00,18
+206,916,Passenger,Found alternative,2024-12-02 07:22:00,18
+207,921,Passenger,Found alternative,2024-10-04 19:04:00,5
+208,922,Passenger,Driver rated poorly,2024-11-14 13:35:00,8
+209,923,Passenger,Long wait time,2024-08-25 13:52:00,6
+210,931,Passenger,Changed plans,2024-11-29 11:19:00,1
+211,932,Driver,Passenger unreachable,2024-04-18 19:45:00,13
+212,937,Driver,Wrong location entered,2024-10-26 17:54:00,16
+213,940,Passenger,Driver rated poorly,2024-06-21 21:05:00,8
+214,941,Passenger,Price too high,2024-08-11 09:39:00,9
+215,943,Passenger,Found alternative,2024-09-09 11:42:00,6
+216,945,Passenger,Changed plans,2024-02-20 11:16:00,6
+217,950,Passenger,Found alternative,2024-08-09 07:48:00,3
+218,955,Driver,Personal emergency,2024-12-04 07:45:00,1
+219,957,Passenger,Price too high,2024-01-28 09:59:00,13
+220,962,Passenger,Long wait time,2024-02-07 16:02:00,17
+221,964,Passenger,Long wait time,2024-05-15 22:48:00,12
+222,965,Passenger,Long wait time,2024-12-25 15:28:00,13
+223,973,Driver,Personal emergency,2024-08-29 15:13:00,14
+224,980,Passenger,Found alternative,2024-09-24 10:10:00,5
+225,982,Passenger,Driver rated poorly,2024-12-09 11:30:00,3
+226,984,Driver,Personal emergency,2024-05-20 17:35:00,10
+227,986,Driver,Vehicle breakdown,2024-08-02 19:20:00,13
+228,989,Driver,Wrong location entered,2024-10-14 11:22:00,1
+229,998,Driver,Wrong location entered,2024-08-03 13:18:00,1
+230,1002,Passenger,Found alternative,2024-03-06 11:14:00,15
+231,1015,Driver,Wrong location entered,2024-05-13 23:49:00,10
+232,1016,Passenger,Price too high,2024-08-11 09:45:00,1
+233,1017,Passenger,Price too high,2024-04-16 01:35:00,9
+234,1019,Driver,Wrong location entered,2024-08-31 21:15:00,15
+235,1023,Driver,Passenger unreachable,2024-04-01 20:04:00,15
+236,1027,Passenger,Changed plans,2024-06-15 16:18:00,8
+237,1030,Driver,Vehicle breakdown,2024-08-24 18:14:00,10
+238,1031,Passenger,Price too high,2024-10-02 08:04:00,15
+239,1034,Passenger,Driver rated poorly,2024-05-31 17:24:00,3
+240,1037,Passenger,Changed plans,2024-07-05 19:04:00,17
+241,1045,Driver,Vehicle breakdown,2024-08-31 08:50:00,16
+242,1049,Driver,Wrong location entered,2024-06-06 15:27:00,7
+243,1050,Passenger,Found alternative,2024-03-21 08:26:00,1
+244,1053,Driver,Passenger unreachable,2024-12-26 09:00:00,18
+245,1061,Driver,Vehicle breakdown,2024-09-08 09:38:00,17
+246,1064,Passenger,Driver rated poorly,2024-11-15 19:02:00,1
+247,1065,Driver,Vehicle breakdown,2024-10-21 22:12:00,15
+248,1066,Driver,Passenger unreachable,2024-01-14 16:04:00,10
+249,1069,Passenger,Price too high,2024-09-21 08:03:00,15
+250,1071,Driver,Passenger unreachable,2024-06-07 19:44:00,17
+251,1076,Passenger,Price too high,2024-08-02 23:12:00,5
+252,1090,Passenger,Price too high,2024-03-22 17:36:00,11
+253,1094,Driver,Wrong location entered,2024-11-04 23:04:00,9
+254,1101,Passenger,Driver rated poorly,2024-05-21 13:06:00,3
+255,1102,Driver,Passenger unreachable,2024-10-07 18:00:00,13
+256,1106,Driver,Wrong location entered,2024-06-23 15:35:00,10
+257,1107,Passenger,Found alternative,2024-06-14 23:35:00,7
+258,1108,Passenger,Found alternative,2024-04-22 09:28:00,14
+259,1110,Passenger,Driver rated poorly,2024-07-08 12:13:00,14
+260,1111,Driver,Passenger unreachable,2024-10-23 08:05:00,7
+261,1115,Passenger,Driver rated poorly,2024-09-17 21:15:00,6
+262,1120,Passenger,Found alternative,2024-07-15 11:07:00,16
+263,1122,Passenger,Found alternative,2024-11-14 04:49:00,15
+264,1123,Driver,Personal emergency,2024-04-02 16:26:00,16
+265,1124,Passenger,Driver rated poorly,2024-08-17 21:53:00,11
+266,1125,Passenger,Driver rated poorly,2024-01-31 22:14:00,16
+267,1135,Passenger,Driver rated poorly,2024-10-01 10:12:00,18
+268,1144,Passenger,Long wait time,2024-03-30 22:35:00,11
+269,1145,Passenger,Long wait time,2024-12-29 21:11:00,17
+270,1147,Driver,Passenger unreachable,2024-04-07 17:03:00,8
+271,1148,Passenger,Driver rated poorly,2024-07-20 07:20:00,14
+272,1149,Driver,Personal emergency,2024-06-21 16:27:00,17
+273,1150,Passenger,Driver rated poorly,2024-12-07 08:49:00,2
+274,1152,Driver,Wrong location entered,2024-01-11 01:04:00,9
+275,1156,Driver,Wrong location entered,2024-12-18 23:41:00,18
+276,1158,Passenger,Found alternative,2024-02-12 11:59:00,8
+277,1165,Passenger,Long wait time,2024-12-26 08:02:00,4
+278,1170,Passenger,Price too high,2024-01-31 18:04:00,12
+279,1182,Passenger,Driver rated poorly,2024-04-24 17:34:00,14
+280,1188,Driver,Personal emergency,2024-03-08 15:02:00,3
+281,1197,Passenger,Changed plans,2024-09-12 21:27:00,3
+282,1198,Passenger,Price too high,2024-05-26 18:56:00,14

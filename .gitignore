@@ -1,6 +1,3 @@
-data/raw/*.csv
-*.pbix
-*.xlsx
 __pycache__/
 *.pyc
 .DS_Store
