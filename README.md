@@ -1,4 +1,4 @@
-# 🚕 Cab Ride Hailing — Trip Analysis & Operational Insights
+# 🚕 Cab Ride Hailing - Trip Analysis & Operational Insights
 
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)]()
 [![Tool](https://img.shields.io/badge/Tool-DBeaver-orange)]()
