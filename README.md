@@ -18,6 +18,7 @@ on revenue.
 
 ## Dashboard Preview
 ![Dashboard](docs/dashboard_preview.png)
+![Dashboard](docs/dashboard_preview_.png)
 
 ## Tools Used
 | Tool | Purpose |
